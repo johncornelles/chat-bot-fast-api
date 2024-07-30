@@ -1,1 +1,1 @@
-print("chatbot setup from replit on python")
+print("setup complete on vs code ")
